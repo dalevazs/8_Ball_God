@@ -1,6 +1,8 @@
-"""
-This code will 
-"""
+
+#This code will simulate asking a Magic Eight Ball a questiion
+#and getting an answer for it
+
+
 
 import random
 import time
